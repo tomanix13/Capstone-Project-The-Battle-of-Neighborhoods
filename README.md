@@ -1,1 +1,20 @@
 # Capstone-Project-The-Battle-of-Neighborhoods
+
+# Final assignment of the Capstone Project - The Battle of Neighborhoods 
+
+# Introduction 
+Vancouver is consistently named as one of the top five worldwide cities for livability and quality of life, https://en.wikipedia.org/wiki/Most_livable_cities, and the Economist Intelligence Unit acknowledged it as the first city ranked among the top ten of the world's most well-living cities for ten consecutive years. 
+
+Also Vancouver is considered to have a vibrant nightlife scene, whether it be food and dining, or bars and nightclubs. This project explores the possible location to open a new British Pub. 
+
+So the questions this projects plans to address are, "where are the areas of nightlife located?", "where are the existing best pubs located ?", "where to open a new British Pub ?". 
+
+# Data
+In order to answer the above questions, data on Vancover nightlife neighborhoods, boroughs to include boundaries, latitude, longitude, Bars and Pubs ratings and tips are required.
+
+The data sources fr the project will be:
+. https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_V
+
+New York City data containing the neighborhoods and boroughs, latitudes, and longitudes will be obtained from the data source: https://cocl.us/new_york_dataset
+
+All data related to locations and quality of Japanese restaurants will be obtained via the FourSquare API utilized via the Request library in Python.
