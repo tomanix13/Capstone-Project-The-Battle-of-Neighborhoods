@@ -16,17 +16,17 @@ The data sources for the project will be:
 - https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_V
 - FourSquare API utilized via the Request library in Python.
 
-# Methodology
+## Methodology
 1. Data collected from https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada
 2. Data will be cleaned, processed and saved into a dataframe
 3. Using FourSquare API (https://developer.foursquare.com/) to locate and filter venues by nightlife, bars and pubs. Ratings, tips, and likes by users will be counted and added to the dataframe
 4.  Data will be sorted ans ranked
 5.  Using Python libraries the results will be visually presented
 
-# Results
+## Results
 The results will be presented using Python libraries in a Jupyter Notebook and published in GitHub.
 
-# Discussion
+## Discussion
 The questions:
 . where are the areas of nightlife located?
 . where are the existing best pubs located?
@@ -34,4 +34,4 @@ The questions:
 
 will be discussed in the Final Report.
 
-# Conclusion
+## Conclusion
