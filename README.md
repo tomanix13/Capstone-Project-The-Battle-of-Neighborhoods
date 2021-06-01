@@ -13,5 +13,5 @@ So the questions this projects plans to address are, "where are the areas of nig
 In order to answer the above questions, data on Vancover nightlife neighborhoods, boroughs to include boundaries, latitude, longitude, Bars and Pubs ratings and tips are required.
 
 The data sources fr the project will be:
-• https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_V
-• FourSquare API utilized via the Request library in Python.
+- https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_V
+- FourSquare API utilized via the Request library in Python.
