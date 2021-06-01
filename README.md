@@ -2,14 +2,14 @@
 
 # Final assignment of the Capstone Project - The Battle of Neighborhoods 
 
-# Introduction 
+## Introduction 
 Vancouver is consistently named as one of the top five worldwide cities for livability and quality of life, https://en.wikipedia.org/wiki/Most_livable_cities, and the Economist Intelligence Unit acknowledged it as the first city ranked among the top ten of the world's most well-living cities for ten consecutive years. 
 
 Also Vancouver is considered to have a vibrant nightlife scene, whether it be food and dining, or bars and nightclubs. This project explores the possible location to open a new British Pub. 
 
 So the questions this projects plans to address are, "where are the areas of nightlife located?", "where are the existing best pubs located ?", "where to open a new British Pub ?". 
 
-# Data
+## Data
 In order to answer the above questions, data on Vancover nightlife neighborhoods, boroughs to include boundaries, latitude, longitude, Bars and Pubs ratings and tips are required.
 
 The data sources for the project will be:
